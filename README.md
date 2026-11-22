@@ -37,3 +37,8 @@ IoT Project – Smart Temperature Control System
 ## Wokwi Simulation
 
 [Run the project on Wokwi](https://wokwi.com/projects/481364828140934145)
+
+## Project Screenshot
+
+![Smart Temperature Control System](<img width="1907" height="900" alt="image" src="https://github.com/user-attachments/assets/73841feb-8626-4732-9054-00153cf1761d" />
+)
