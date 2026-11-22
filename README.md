@@ -33,3 +33,7 @@ Built and tested using Wokwi.
 
 ## Author
 IoT Project – Smart Temperature Control System
+
+## Wokwi Simulation
+
+[Run the project on Wokwi](https://wokwi.com/projects/481364828140934145)
